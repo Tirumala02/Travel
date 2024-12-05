@@ -39,7 +39,7 @@ export default function App() {
     e.preventDefault();
     try {
       setLoading(true);
-      await axios.post("http://localhost:5000/send-email", { formData });
+      await axios.post("https://travel-n90i.onrender.com/send-email", { formData });
       toast.success("Email sent successfully!");
       setFormData({ name: "", email: "", phone: "", dates: " " });
     } catch (error) {
