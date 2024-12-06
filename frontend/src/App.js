@@ -217,7 +217,7 @@ export default function App() {
               }}
             >
               <p className=" text-2xl font-bold text-gray-800">
-                Starts from Rs 15,999 (Per Night)
+                Starts from Rs 14,999/- (Per Night)
               </p>
             </div>
             <p className="text-gray-700">
