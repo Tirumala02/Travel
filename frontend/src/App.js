@@ -268,7 +268,7 @@ export default function App() {
         Spiritual Offerings at Kumbh Mela
       </h2>
       <p className="text-lg text-gray-700">
-        Immerse yourself in divine rituals, holy baths, and serene Harathi ceremonies. 
+        Immerse yourself in divine rituals, holy baths, and serene Aerti ceremonies. 
         <span className="font-semibold"> Prices for these rituals are excluded.</span>
       </p>
     </div>
@@ -305,17 +305,17 @@ export default function App() {
         </ul>
       </div>
 
-      {/* Harathi Section */}
+      {/* Aerti Section */}
       <div className="bg-white rounded-lg shadow-md p-6">
         <h3 className="text-xl font-bold text-gray-800 mb-4 flex items-center">
-          {/* <img src="/icons/harathi-icon.png" alt="Harathi Icon" className="h-6 w-6 mr-2" /> */}
-          Types of Harathi
+          {/* <img src="/icons/Aerti-icon.png" alt="Aerti Icon" className="h-6 w-6 mr-2" /> */}
+          Types of Aerti
         </h3>
         <ul className="space-y-2 text-gray-700">
-          <li><span className="font-semibold">Ganga Harathi:</span> Evening ceremony with lamps offered to River Ganga.</li>
-          <li><span className="font-semibold">Maha Harathi:</span> Grand ritual performed on significant occasions.</li>
-          <li><span className="font-semibold">Akhand Harathi:</span> Continuous harathi symbolizing eternal devotion.</li>
-          <li><span className="font-semibold">Sant Harathi:</span> Special harathi offered by saints to unify spirituality.</li>
+          <li><span className="font-semibold">Ganga Aerti:</span> Evening ceremony with lamps offered to River Ganga.</li>
+          <li><span className="font-semibold">Maha Aerti:</span> Grand ritual performed on significant occasions.</li>
+          <li><span className="font-semibold">Akhand Aerti:</span> Continuous Aerti symbolizing eternal devotion.</li>
+          <li><span className="font-semibold">Sant Aerti:</span> Special Aerti offered by saints to unify spirituality.</li>
         </ul>
       </div>
     </div>
