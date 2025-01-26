@@ -203,7 +203,7 @@ export default function App() {
       {/* Package Details */}
       <div className="bg-gray-50 py-16" id='packUp'>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center">
+        {/*  <div className="text-center">
             <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">
               TOUR PACKAGE
             </h2>
@@ -223,7 +223,7 @@ export default function App() {
             <p className="text-gray-700">
               Accommodation per Swiss Cottage
             </p>
-          </div>
+          </div>*/}
 
           {/* Services Grid */}
           <div className="mt-16">
